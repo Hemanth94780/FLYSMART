@@ -1,13 +1,14 @@
-
 # 🛫 FlySmart – Smart Flight Guide
 
-**FlySmart** is a full-featured **Flight Booking Management System** developed as a part of the Database Management Systems (CSBB 204) course. This project demonstrates the practical application of DBMS concepts through a dynamic, user-friendly flight reservation platform that caters to both passengers and administrators.
+**FlySmart** is a full-featured **Flight Booking Management System** designed to streamline air travel management for both passengers and administrators. It provides an intuitive interface for booking, managing, and monitoring flight journeys, all backed by a robust relational database system.
 
 ---
 
 ## 📌 Project Overview
 
-In the complex domain of air travel, **FlySmart** aims to simplify and optimize flight booking and management. It integrates critical functionalities such as real-time flight updates, ticket generation, payment processing, and admin dashboards — all built on a solid relational database foundation.
+In today’s fast-paced travel landscape, efficient and reliable flight booking systems are essential. **FlySmart** addresses common challenges such as fragmented booking data, poor user experience, and lack of real-time updates by delivering a unified platform with seamless functionality.
+
+From flight search and secure payments to e-ticket generation and admin controls, FlySmart ensures a smooth experience for end users and operators alike. The system is built to demonstrate real-world application of full-stack development principles with a focus on data integrity, usability, and extensibility.
 
 ---
 
@@ -32,21 +33,18 @@ In the complex domain of air travel, **FlySmart** aims to simplify and optimize 
 | Frontend    | HTML, CSS, JavaScript     |
 | Backend     | PHP                       |
 | Database    | MySQL                     |
-| Local Server| XAMPP                     |
+| Server      | XAMPP (Apache + MySQL)    |
 
 ---
 
-## 📚 DBMS Concepts Applied
+## 📚 Key Concepts Implemented
 
-- Entity-Relationship (ER) Diagram
-- Mapping ER Model to Relational Model
-- SQL Queries (Basic and Advanced)
-- Relational Schema Design
-- Data Dictionary
-- Populated Tables
-- Foreign Key Constraints
-- PHP-MySQL Connectivity
+- ER Diagrams and their mapping to relational schemas
+- Normalized relational database design
+- SQL and advanced query operations
+- Backend logic using PHP with session and user management
+- Real-time data handling for flight and booking status
+- Secure database interactions using prepared statements
+- PHP-MySQL integration for full-stack functionality
 
-
-
-
+---
